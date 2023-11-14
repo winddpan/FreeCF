@@ -117,6 +117,34 @@ rules:
 # 广告联盟-国内****************
 # 广告联盟-国外****************
 # 垃圾站点****************
+  - DOMAIN-SUFFIX,h5.hpplay.com.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,hpplay.cdn.cibn.cc,🛑 全球拦截
+  - DOMAIN-SUFFIX,519332DA.rtc.youme.im,🛑 全球拦截
+  - DOMAIN-SUFFIX,hpplay.cdn.cibn.cc,🛑 全球拦截
+  - DOMAIN-SUFFIX,g.dtv.cn.miaozhen.co,🛑 全球拦截
+  - DOMAIN-SUFFIX,android.bugly.qq.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,alog.umeng.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,sdkauth.hpplay.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,imdns.hpplay.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,vipauth.hpplay.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,rp.hpplay.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,sl.hpplay.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,hotupgrade.hpplay.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,pin.hpplay.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,tvapp.hpplay.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,image.hpplay.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,gslb.hpplay.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,cdn.hpplay.com.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,h5.hpplay.com.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,adeng.hpplay.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,conf.hpplay.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,adcdn.hpplay.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,pin.hpplay.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,ad.hpplay.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,fix.hpplay.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,g3.letv.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,g3.letv.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,ui.letv.com,🛑 全球拦截
 # 运营商广告****************
   - DOMAIN-KEYWORD,admarvel,🛑 全球拦截
   - DOMAIN-KEYWORD,admaster,🛑 全球拦截
