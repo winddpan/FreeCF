@@ -2524,6 +2524,7 @@ rules:
   - DOMAIN-SUFFIX,id.heroku.com,🚀 节点选择
   - DOMAIN-SUFFIX,io.io,🚀 节点选择
   - DOMAIN-SUFFIX,npmjs.com,🚀 节点选择
+  - DOMAIN-SUFFIX,npmjs.org,🚀 节点选择
   - DOMAIN-SUFFIX,issuu.com,🚀 节点选择
   - DOMAIN-SUFFIX,ixquick.com,🚀 节点选择
   - DOMAIN-SUFFIX,jtvnw.net,🚀 节点选择
