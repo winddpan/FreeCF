@@ -12,7 +12,7 @@ proxies:
   - {"name":"104.19.0.0","type":"vless","server":"104.19.0.0","port":443,"uuid":"4d2c0cdb-4b3d-4107-bf29-cbd5e4772f87","tls":true,"servername":"x.yolo2.site","network":"ws","ws-opts":{"path":"/?ed=2560","headers":{"host":"x.yolo2.site"}},"client-fingerprint":"random","allowlnsecure":false}
   - {"name":"162.159.130.204","type":"vless","server":"162.159.130.204","port":443,"uuid":"4d2c0cdb-4b3d-4107-bf29-cbd5e4772f87","tls":true,"servername":"x.yolo2.site","network":"ws","ws-opts":{"path":"/?ed=2560","headers":{"host":"x.yolo2.site"}},"client-fingerprint":"random","allowlnsecure":false}
   - {"name":"162.159.141.250","type":"vless","server":"162.159.141.250","port":443,"uuid":"4d2c0cdb-4b3d-4107-bf29-cbd5e4772f87","tls":true,"servername":"x.yolo2.site","network":"ws","ws-opts":{"path":"/?ed=2560","headers":{"host":"x.yolo2.site"}},"client-fingerprint":"random","allowlnsecure":false}
-  - {"name":"visa","type":"vless","server":"www.visa.com.sg","port":443,"uuid":"4d2c0cdb-4b3d-4107-bf29-cbd5e4772f87","tls":true,"servername":"tc.yolo4.fun","network":"ws","ws-opts":{"path":"/?ed=2560","headers":{"host":"x.yolo2.site"}},"client-fingerprint":"random","allowlnsecure":false}
+  - {"name":"visa","type":"vless","server":"www.visa.com.hk","port":443,"uuid":"4d2c0cdb-4b3d-4107-bf29-cbd5e4772f87","tls":true,"servername":"x.yolo2.site","network":"ws","ws-opts":{"path":"/?ed=2560","headers":{"host":"x.yolo2.site"}},"client-fingerprint":"random","allowlnsecure":false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
