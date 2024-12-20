@@ -5,12 +5,12 @@ mode: rule
 log-level: info
 external-controller: '127.0.0.1:9090'
 proxies:
-  - {"name":"141.101.120.170","type":"vless","server":"141.101.120.170","port":443,"uuid":"4d2c0cdb-4b3d-4107-bf29-cbd5e4772f87","tls":true,"servername":"x.yolo2.site","network":"ws","ws-opts":{"path":"/?ed=2560","headers":{"host":"x.yolo2.site"}},"client-fingerprint":"random","allowlnsecure":false}
-  - {"name":"172.64.135.75","type":"vless","server":"172.64.135.75","port":443,"uuid":"4d2c0cdb-4b3d-4107-bf29-cbd5e4772f87","tls":true,"servername":"x.yolo2.site","network":"ws","ws-opts":{"path":"/?ed=2560","headers":{"host":"x.yolo2.site"}},"client-fingerprint":"random","allowlnsecure":false}
-  - {"name":"141.101.120.0","type":"vless","server":"141.101.120.0","port":443,"uuid":"4d2c0cdb-4b3d-4107-bf29-cbd5e4772f87","tls":true,"servername":"x.yolo2.site","network":"ws","ws-opts":{"path":"/?ed=2560","headers":{"host":"x.yolo2.site"}},"client-fingerprint":"random","allowlnsecure":false}
-  - {"name":"104.21.231.245","type":"vless","server":"104.21.231.245","port":443,"uuid":"4d2c0cdb-4b3d-4107-bf29-cbd5e4772f87","tls":true,"servername":"x.yolo2.site","network":"ws","ws-opts":{"path":"/?ed=2560","headers":{"host":"x.yolo2.site"}},"client-fingerprint":"random","allowlnsecure":false}
-  - {"name":"104.21.234.42","type":"vless","server":"104.21.234.42","port":443,"uuid":"4d2c0cdb-4b3d-4107-bf29-cbd5e4772f87","tls":true,"servername":"x.yolo2.site","network":"ws","ws-opts":{"path":"/?ed=2560","headers":{"host":"x.yolo2.site"}},"client-fingerprint":"random","allowlnsecure":false}
-  - {"name":"visa","type":"vless","server":"www.visa.com.hk","port":443,"uuid":"4d2c0cdb-4b3d-4107-bf29-cbd5e4772f87","tls":true,"servername":"x.yolo2.site","network":"ws","ws-opts":{"path":"/?ed=2560","headers":{"host":"x.yolo2.site"}},"client-fingerprint":"random","allowlnsecure":false}
+  - {"name":"141.101.120.170","type":"vless","server":"141.101.120.170","port":443,"uuid":"4d2c0cdb-4b3d-4107-bf29-cbd5e4772f87","tls":true,"servername":"cf2.yolo2.site","network":"ws","ws-opts":{"path":"/?ed=2560","headers":{"host":"cf2.yolo2.site"}},"client-fingerprint":"random","allowlnsecure":false}
+  - {"name":"172.64.135.75","type":"vless","server":"172.64.135.75","port":443,"uuid":"4d2c0cdb-4b3d-4107-bf29-cbd5e4772f87","tls":true,"servername":"cf2.yolo2.site","network":"ws","ws-opts":{"path":"/?ed=2560","headers":{"host":"cf2.yolo2.site"}},"client-fingerprint":"random","allowlnsecure":false}
+  - {"name":"141.101.120.0","type":"vless","server":"141.101.120.0","port":443,"uuid":"4d2c0cdb-4b3d-4107-bf29-cbd5e4772f87","tls":true,"servername":"cf2.yolo2.site","network":"ws","ws-opts":{"path":"/?ed=2560","headers":{"host":"cf2.yolo2.site"}},"client-fingerprint":"random","allowlnsecure":false}
+  - {"name":"104.21.231.245","type":"vless","server":"104.21.231.245","port":443,"uuid":"4d2c0cdb-4b3d-4107-bf29-cbd5e4772f87","tls":true,"servername":"cf2.yolo2.site","network":"ws","ws-opts":{"path":"/?ed=2560","headers":{"host":"cf2.yolo2.site"}},"client-fingerprint":"random","allowlnsecure":false}
+  - {"name":"104.21.234.42","type":"vless","server":"104.21.234.42","port":443,"uuid":"4d2c0cdb-4b3d-4107-bf29-cbd5e4772f87","tls":true,"servername":"cf2.yolo2.site","network":"ws","ws-opts":{"path":"/?ed=2560","headers":{"host":"cf2.yolo2.site"}},"client-fingerprint":"random","allowlnsecure":false}
+  - {"name":"visa","type":"vless","server":"www.visa.com.hk","port":443,"uuid":"4d2c0cdb-4b3d-4107-bf29-cbd5e4772f87","tls":true,"servername":"cf2.yolo2.site","network":"ws","ws-opts":{"path":"/?ed=2560","headers":{"host":"cf2.yolo2.site"}},"client-fingerprint":"random","allowlnsecure":false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
